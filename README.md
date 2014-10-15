@@ -1,3 +1,21 @@
+# BIOMD0000000343: model01
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000343.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000343.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -28,4 +46,5 @@ increase overall signaling strength, suggesting novel therapeutic targets for
 insulin resistance and type 2 diabetes. Because the central observations are
 present in other signaling networks, our results may indicate a general
 mechanism in hormonal control.
+
 
